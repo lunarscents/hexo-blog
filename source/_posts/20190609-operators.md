@@ -12,7 +12,6 @@ tags:
 date: 2019-06-09 00:09:26
 ---
 
-
 ## Objective
 
 In this challenge, you'll work with arithmetic operators. Check out the Tutorial tab for learning materials and an instructional video!
@@ -25,11 +24,10 @@ Given the meal price (base cost of a meal), tip percent (the percentage of the m
 
 ## Input Format
 
-There are **3** lines of numeric input: 
-The first line has a double, **mealCost** (the cost of the meal before tax and tip). 
-The second line has an integer, **tipPercent** (the percentage of **mealCost** being added as tip). 
-The third line has an integer, **taxPercent** (the percentage of **mealCost** being added as tax).
-
+There are **3** lines of numeric input: <br/>
+The first line has a double, **mealCost** (the cost of the meal before tax and tip). <br/>
+The second line has an integer, **tipPercent** (the percentage of **mealCost** being added as tip). <br/>
+The third line has an integer, **taxPercent** (the percentage of **mealCost** being added as tax).<br/>
 
 ## Output Format
 

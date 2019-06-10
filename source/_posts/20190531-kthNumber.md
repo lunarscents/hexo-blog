@@ -1,14 +1,13 @@
 ---
 title: K번째수
 categories:
-- Base
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 tags:
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 date: 2019-05-31 23:12:19
 ---
 

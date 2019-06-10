@@ -1,7 +1,6 @@
 ---
 title: 서울에서 김서방 찾기
 categories:
-  - Base
   - Algorithm
   - Programmers
   - Level1
@@ -40,9 +39,7 @@ String형 배열 seoul의 element중 Kim의 위치 x를 찾아, 김서방은 x�
 ---
 
 ```javascript
-
 function solution(seoul) {
     return `김서방은 ${seoul.indexOf('Kim')}에 있다`;
 }
-
 ```

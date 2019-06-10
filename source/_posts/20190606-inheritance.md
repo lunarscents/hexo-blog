@@ -1,14 +1,13 @@
 ---
 title: Day 5 Inheritance
 categories:
-- Base
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 tags:
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 date: 2019-06-06 00:16:08
 ---
 
@@ -34,7 +33,6 @@ Locked code in the editor tests the class and method implementations and prints 
 ## Solution
 
 ```javascript
-
 /*
  *  Write code that adds an 'area' method to the Rectangle class' prototype
  */
@@ -50,8 +48,6 @@ class Square extends Rectangle {
         super(s, s);
     }
 }
-
-
 ```
 
 ---

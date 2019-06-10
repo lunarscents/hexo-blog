@@ -1,14 +1,13 @@
 ---
 title: Day 4 Count Objects
 categories:
-- Base
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 tags:
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 date: 2019-06-05 00:18:42
 ---
 
@@ -69,7 +68,6 @@ Because we have two objects **o** that satisfy **o.x = o.y** (i.e., **Objects[0]
 ## Solution
 
 ```javascript
-
 /*
  * Return a count of the total number of objects 'o' satisfying o.x == o.y.
  * 
@@ -83,8 +81,6 @@ function getCount(objects) {
         return target;
     }, 0);
 }
-
-
 ```
 
 ---

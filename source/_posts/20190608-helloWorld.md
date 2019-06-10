@@ -1,7 +1,6 @@
 ---
 title: Day 0 Hello, World
 categories:
-  - Base
   - Algorithm
   - HackerRank
   - 30Days of Code
@@ -64,14 +63,12 @@ On the first line, we print the string literal Hello, World.. On the second line
 ## Solution
 
 ```javascript
-
 function processData(inputString) {
     // This line of code prints the first line of output
     console.log("Hello, World.");
     
     // Write the second line of output that prints the contents of 'inputString' here.
 }
-
 ```
 
 ---

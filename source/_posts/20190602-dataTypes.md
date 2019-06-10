@@ -1,14 +1,13 @@
 ---
 title: Day 0 Data Types
 categories:
-- Base
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 tags:
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 date: 2019-06-02 12:40:38
 ---
 

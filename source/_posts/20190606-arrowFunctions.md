@@ -1,14 +1,13 @@
 ---
 title: Day 5 Arrow Functions
 categories:
-- Base
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 tags:
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 date: 2019-06-06 00:15:59
 ---
 
@@ -66,9 +65,7 @@ Given **nums = [1,2,3,4,5]**, we modify each element so that all even elements a
 ---
 
 ## Solution
-
 ```javascript
-
 /*
  * Modify and return the array so that all even elements are doubled and all odd elements are tripled.
  * 
@@ -78,7 +75,6 @@ Given **nums = [1,2,3,4,5]**, we modify each element so that all even elements a
 function modifyArray(nums) {
     return (nums || []).map(num => num * (num % 2 === 0 ? 2 : 3));
 }
-
 ```
 
 ---

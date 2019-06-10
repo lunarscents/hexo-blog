@@ -1,14 +1,13 @@
 ---
 title: 가운데 글자 가져오기
 categories:
-- Base
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 tags:
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 date: 2019-06-01 00:25:09
 ---
 

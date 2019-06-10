@@ -1,14 +1,13 @@
 ---
 title: 같은 숫자는 싫어
 categories:
-- Base
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 tags:
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 date: 2019-06-01 00:27:04
 ---
 

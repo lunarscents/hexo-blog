@@ -1,10 +1,9 @@
 ---
 title: 'Day 1: Data Types'
 categories:
-  - - Base
-    - Algorithm
-    - HackerRank
-    - 30Days of Code
+  - Algorithm
+  - HackerRank
+  - 30Days of Code
 tags:
   - Algorithm
   - HackerRank
@@ -78,7 +77,6 @@ When we concatenate HackerRank with is the best place to learn and practice codi
 ### Solution 1
 
 ```javascript
-
 // Declare second integer, double, and String variables.
 var first = +input_stdin_array[0];
 var second = +input_stdin_array[1];
@@ -96,8 +94,6 @@ console.log((d + second).toFixed(1));
 // Concatenate and print the String variables on a new line
 // The 's' variable above should be printed first.
 console.log(s+third);
-
-
 ```
 
 ### Solution 2

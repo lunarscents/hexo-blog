@@ -1,14 +1,13 @@
 ---
 title: 문자열 내림차순으로 배치하기
 categories:
-- Base
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 tags:
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 date: 2019-06-07 00:08:47
 ---
 
@@ -40,5 +39,4 @@ s는 영문 대소문자로만 구성되어 있으며, 대문자는 소문자보
 function solution(s) {
     return [...s].sort().reverse().join('');
 }
-
 ```

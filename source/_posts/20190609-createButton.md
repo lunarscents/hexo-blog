@@ -1,7 +1,6 @@
 ---
 title: 'Day 8: Create a Button'
 categories: 
-  - Base
   - Algorithm
   - HackerRank
   - 30Days of Code

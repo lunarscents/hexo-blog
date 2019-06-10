@@ -1,14 +1,13 @@
 ---
 title: 문자열 내 마음대로 정렬하기
 categories:
-- Base
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 tags:
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 date: 2019-06-04 13:01:40
 ---
 
@@ -52,11 +51,9 @@ abce와 abcd, cdx의 2번째 인덱스 값은 c, c, x입니다. 따라서 정렬
 ---
 
 ```javascript
-
 function solution(strings, n) {
     return (strings || []).sort((a, b) => 
        (a[n] === b[n] ? (a < b ? -1 : (a > b ? 1 : 0)) : (a[n] < b[n] ? -1 : (a[n] > b[n] ? 1 : 0)))
     );
 }
-
 ```

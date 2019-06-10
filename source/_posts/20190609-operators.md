@@ -1,7 +1,6 @@
 ---
 title: 'Day 2: Operators'
 categories:
-  - Base
   - Algorithm
   - HackerRank
   - 30Days of Code
@@ -72,7 +71,6 @@ We round **totalCost** to the nearest dollar (integer) and then print our result
 ### Solution 1
 
 ```javascript
-
 function main() {
     var cost = +input_stdin_array[0];
     var tip = cost * input_stdin_array[1] / 100;
@@ -82,20 +80,17 @@ function main() {
     
     console.log('The total meal cost is ' + round + ' dollars.');
 }
-
 ```
 
 ### Solution 2
 
 ```javascript
-
 // Complete the solve function below.
 function solve(meal_cost, tip_percent, tax_percent) {
     let totalCost = meal_cost * (1 + (tip_percent / 100) + (tax_percent / 100));
     
     console.log(Math.round(totalCost));
 }
-
 ```
 
 ---

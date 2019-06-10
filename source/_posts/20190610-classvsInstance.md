@@ -1,7 +1,6 @@
 ---
 title: 'Day 4: Class vs. Instance'
 categories:
-  - Base
   - Algorithm
   - HackerRank
   - 30Days of Code
@@ -103,7 +102,6 @@ Because **initialAge >= 18**, our code should print that the person is old. Thre
 ## Solution
 
 ```javascript
-
 function Person(initialAge){
     // Add some more code to run some checks on initialAge
     (initialAge <= 0) && (console.log('Age is not valid, setting age to 0.'));
@@ -122,5 +120,4 @@ function Person(initialAge){
        return this.age++;
    };
 }
-
 ```

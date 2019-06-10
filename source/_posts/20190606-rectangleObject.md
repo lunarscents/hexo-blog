@@ -1,14 +1,13 @@
 ---
 title: Day 4 Create a Rectangle Object
 categories:
-- Base
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 tags:
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 date: 2019-06-06 00:15:45
 ---
 
@@ -72,7 +71,6 @@ Given a **length** of **a = 3** and a **width** of **b = 5**, the Rectangle obje
 ## Solution
 
 ```javascript
-
 /*
  * Complete the Rectangle function
  */
@@ -82,7 +80,6 @@ function Rectangle(a, b) {
     this.perimeter = (a + b) * 2;
     this.area = a * b;
 }
-
 ```
 
 ---

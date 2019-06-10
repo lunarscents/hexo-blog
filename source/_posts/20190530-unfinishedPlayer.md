@@ -1,14 +1,13 @@
 ---
 title: 완주하지 못한 선수
 categories:
-- Base
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 tags:
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 ---
 
 <br/>

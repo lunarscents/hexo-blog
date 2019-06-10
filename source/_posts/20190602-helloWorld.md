@@ -1,14 +1,13 @@
 ---
 title: Day 0 Hello, World
 categories:
-- Base
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 tags:
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 date: 2019-06-02 12:47:22
 ---
 
@@ -77,7 +76,6 @@ We printed two lines of output:
 ## Solution
 
 ```javascript
-
 /**
 *   A line of code that prints "Hello, World!" on a new line is provided in the editor.
 *   Write a second line of code that prints the contents of 'parameterVariable' on a new line.
@@ -92,7 +90,6 @@ function greeting(parameterVariable) {
     // Write a line of code that prints parameterVariable to stdout using console.log:
     console.log(parameterVariable);
 }
-
 ```
 
 ---

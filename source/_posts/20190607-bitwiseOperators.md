@@ -1,14 +1,13 @@
 ---
 title: Day 6 Bitwise Operators
 categories:
-- Base
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 tags:
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 date: 2019-06-07 00:04:54
 ---
 
@@ -111,7 +110,6 @@ We perform the following **q = 2** function calls:
 ## Solution
 
 ```javascript
-
 function getMaxLessThanK(n, k) {
     let max = 0;
 
@@ -125,7 +123,6 @@ function getMaxLessThanK(n, k) {
  
     return max;
 }
-
 ```
 
 ---

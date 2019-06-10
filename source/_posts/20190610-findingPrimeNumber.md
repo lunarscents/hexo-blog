@@ -1,7 +1,6 @@
 ---
 title: 소수 찾기
 categories:
-  - Base
   - Algorithm
   - Programmers
   - Level1
@@ -53,7 +52,6 @@ date: 2019-06-10 13:25:23
 ---
 
 ```javascript
-
 function solution(n) {
     let isPrime = [false, false, ...new Array(n - 1).fill(true)];
     
@@ -75,5 +73,4 @@ function solution(n) {
 
     return answers.length;
 }
-
 ```

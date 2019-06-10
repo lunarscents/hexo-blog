@@ -1,14 +1,13 @@
 ---
 title: Day 5 Template Literals
 categories:
-- Base
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 tags:
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 date: 2019-06-06 00:16:20
 ---
 
@@ -83,7 +82,6 @@ We then store these values in an array, [14, 10], sort the array, and return the
 ## Solution
 
 ```javascript
-
 /*
  * Determine the original side lengths and return an array:
  * - The first element is the length of the shorter side
@@ -99,8 +97,6 @@ function sides(literals, ...expressions) {
 
     return [((p - value) / 4), ((p + value) / 4)];
 }
-
-
 ```
 
 ---

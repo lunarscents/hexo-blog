@@ -1,10 +1,10 @@
 ---
 title: Hello, LunarScents!
 categories: 
-- Tools
+  - Tools
 tags: 
-- blog
-- hexo
+  - blog
+  - Hexo
 ---
 
 

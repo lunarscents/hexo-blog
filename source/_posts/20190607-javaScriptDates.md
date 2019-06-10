@@ -1,14 +1,13 @@
 ---
 title: Day 6 JavaScript Dates
 categories:
-- Base
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 tags:
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 date: 2019-06-07 00:07:15
 ---
 
@@ -64,13 +63,10 @@ The function is called for the following **d = 2** dates:
 ## Solution
 
 ```javascript
-
 // The days of the week are: "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
 function getDayName(dateString) {
     return [ 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday' ][(new Date(dateString)).getDay()];
 }
-
-
 ```
 
 ---

@@ -1,14 +1,13 @@
 ---
 title: 나누어 떨어지는 숫자 배열
 categories:
-- Base
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 tags:
-- Algorithm
-- Programmers
-- Level1
+  - Algorithm
+  - Programmers
+  - Level1
 date: 2019-06-02 12:35:37
 ---
 

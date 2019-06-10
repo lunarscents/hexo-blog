@@ -1,7 +1,6 @@
 ---
 title: 'Day 3: Intro to Conditional Statements'
 categories:
-  - Base
   - Algorithm
   - HackerRank
   - 30Days of Code
@@ -90,7 +89,6 @@ Sample Case 1: **n = 24**
 ### Solution 1
 
 ```javascript
-
 // Complete the solve function below.
 function main() {
     var N = parseInt(readLine());
@@ -107,13 +105,11 @@ function main() {
         console.log('Weird');
     }
 }
-
 ```
 
 ### Solution 2
 
 ```javascript
-
 // Complete the solve function below.
 function main() {
     const N = parseInt(readLine(), 10);
@@ -121,7 +117,6 @@ function main() {
 
     console.log(result);
 }
-
 ```
 
 ---

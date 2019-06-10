@@ -1,14 +1,13 @@
 ---
 title: Day 1 Functions
 categories:
-- Base
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 tags:
-- Algorithm
-- HackerRank
-- 10Days of JS
+  - Algorithm
+  - HackerRank
+  - 10Days of JS
 date: 2019-06-02 12:53:57
 ---
 
@@ -62,14 +61,11 @@ We return the value of **4! = 4 X 3 X 2 X 1 = 24**.
 ### Solution 1
 
 ```javascript
-
 const factorial = (n) => (n - 1) > 0 ? n * factorial(n - 1) : 1;
-
 ```
 ### Solution 2
 
 ```javascript
-
 let memoization = [0, 1];
 
 const factorial = (n) => {
@@ -79,7 +75,6 @@ const factorial = (n) => {
 
     return memoization[n];
 }
-
 ```
 
 ---

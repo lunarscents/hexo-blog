@@ -1,5 +1,5 @@
 ---
-title: Day 0 Hello, World
+title: 'Day 0: Hello, World'
 categories:
   - Algorithm
   - HackerRank
@@ -74,7 +74,6 @@ We printed two lines of output:
 ---
 
 ## Solution
-
 ```javascript
 /**
 *   A line of code that prints "Hello, World!" on a new line is provided in the editor.

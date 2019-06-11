@@ -1,5 +1,5 @@
 ---
-title: Day 5 Inheritance
+title: 'Day 5: Inheritance'
 categories:
   - Algorithm
   - HackerRank

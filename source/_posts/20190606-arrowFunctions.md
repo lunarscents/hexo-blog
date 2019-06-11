@@ -1,5 +1,5 @@
 ---
-title: Day 5 Arrow Functions
+title: 'Day 5: Arrow Functions'
 categories:
   - Algorithm
   - HackerRank

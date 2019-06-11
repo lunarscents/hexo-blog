@@ -52,7 +52,6 @@ tags:
 ### Solution
     
 ```javascript
-
 function solution(participant, completion) {
    participant.sort();
    completion.sort();
@@ -63,7 +62,6 @@ function solution(participant, completion) {
        return target;
    }, [])[0];
 }
-
 ```
     
 

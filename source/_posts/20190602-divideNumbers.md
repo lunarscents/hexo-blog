@@ -52,9 +52,7 @@ arr의 모든 원소는 1으로 나누어 떨어집니다. 원소를 오름차�
 ---
 
 ```javascript
-
 function solution(s) {
     return s.substr(Math.ceil(s.length / 2) - 1, s.length % 2 === 0 ? 2 : 1);
 }
-
 ```

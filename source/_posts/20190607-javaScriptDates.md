@@ -1,5 +1,5 @@
 ---
-title: Day 6 JavaScript Dates
+title: 'Day 6: JavaScript Dates'
 categories:
   - Algorithm
   - HackerRank

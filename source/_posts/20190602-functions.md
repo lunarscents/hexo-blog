@@ -1,5 +1,5 @@
 ---
-title: Day 1 Functions
+title: 'Day 1: Functions'
 categories:
   - Algorithm
   - HackerRank

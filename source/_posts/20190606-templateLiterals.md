@@ -1,5 +1,5 @@
 ---
-title: Day 5 Template Literals
+title: 'Day 5: Template Literals'
 categories:
   - Algorithm
   - HackerRank

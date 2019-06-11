@@ -1,5 +1,5 @@
 ---
-title: Day 1 Arithmetic Operators
+title: 'Day 1: Arithmetic Operators'
 categories:
   - Algorithm
   - HackerRank
@@ -82,7 +82,6 @@ The perimeter of the rectangle is **2 X (length + height) = 2 X (3 + 4.5) = 15**
 ## Solution
 
 ```javascript
-
 /**
 *   Calculate the area of a rectangle.
 *
@@ -114,7 +113,6 @@ function getPerimeter(length, width) {
     
     return perimeter;
 }
-
 ```
 
 ---

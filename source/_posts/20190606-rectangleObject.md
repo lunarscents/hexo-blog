@@ -1,5 +1,5 @@
 ---
-title: Day 4 Create a Rectangle Object
+title: 'Day 4: Create a Rectangle Object'
 categories:
   - Algorithm
   - HackerRank

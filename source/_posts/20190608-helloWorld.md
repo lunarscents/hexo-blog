@@ -1,5 +1,5 @@
 ---
-title: Day 0 Hello, World
+title: 'Day 0: Hello, World'
 categories:
   - Algorithm
   - HackerRank

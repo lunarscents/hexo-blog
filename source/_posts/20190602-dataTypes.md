@@ -1,5 +1,5 @@
 ---
-title: Day 0 Data Types
+title: 'Day 0: Data Types'
 categories:
   - Algorithm
   - HackerRank
@@ -76,7 +76,6 @@ When we sum the floating-point numbers **4.0** and **4.32**, we get **8.32**. Wh
 ## Solution
 
 ```javascript
-
 /**
 *   The variables 'firstInteger', 'firstDecimal', and 'firstString' are declared for you -- do not modify them.
 *   Print three lines:
@@ -109,7 +108,6 @@ function performOperation(secondInteger, secondDecimal, secondString) {
     // Write code that uses console.log to print the concatenation of 'firstString' and 'secondString' on a new line. The        variable 'firstString' must be printed first.
     console.log((firstString || '').concat(secondString));
 }
-
 ```
 
 ---

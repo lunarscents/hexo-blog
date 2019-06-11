@@ -38,9 +38,7 @@ date: 2019-06-11 00:04:05
 ---
 
 ```javascript
-
 function solution(n) {
     return `${'수박'.repeat(Math.floor(n / 2))}${n % 2 ? '수' : ''}`;
 }
-
 ```

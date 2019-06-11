@@ -54,7 +54,6 @@ date: 2019-05-31 23:12:19
 <br/>
     
 ```javascript
-
 function solution(array, commands) {
     return (commands || []).reduce((target, command) => {
         target.push(((array|| []).slice(command[0] - 1, command[1]).sort((a, b) => a - b))[command[2] - 1]);
@@ -62,5 +61,4 @@ function solution(array, commands) {
         return target;
     }, []);
 }
-
 ```

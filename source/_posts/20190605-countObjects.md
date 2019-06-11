@@ -1,5 +1,5 @@
 ---
-title: Day 4 Count Objects
+title: 'Day 4: Count Objects'
 categories:
   - Algorithm
   - HackerRank

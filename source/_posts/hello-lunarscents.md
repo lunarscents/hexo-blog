@@ -15,32 +15,43 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ### Create a new post
 
-``` bash
-$ hexo new "My New Post"
-```
+
+{% gdemo_terminal 'hexo new "My New Post"' '70px' 'zsh' '500' '$' 'demo-teriminal1' %}
+{% endgdemo_terminal %}
+
+<br/>
+<br/>
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
 
-``` bash
-$ hexo server
-```
+
+{% gdemo_terminal 'hexo server' '70px' 'zsh' '500' '$' 'demo-teriminal2' %}
+{% endgdemo_terminal %}
+
+<br/>
+<br/>
 
 More info: [Server](https://hexo.io/docs/server.html)
 
 ### Generate static files
 
-``` bash
-$ hexo generate
-```
+
+{% gdemo_terminal 'hexo generate' '70px' 'zsh' '500' '$' 'demo-teriminal3' %}
+{% endgdemo_terminal %}
+
+<br/>
+<br/>
 
 More info: [Generating](https://hexo.io/docs/generating.html)
 
 ### Deploy to remote sites
 
-``` bash
-$ hexo deploy
-```
+{% gdemo_terminal 'hexo deploy' '70px' 'zsh' '500' '$' 'demo-teriminal4' %}
+{% endgdemo_terminal %}
+
+<br/>
+<br/>
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)

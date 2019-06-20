@@ -100,8 +100,7 @@ feed:
 nofollow:
   enable: true
   exclude:
-  - exclude1.com
-  - exclude2.com
+  - lunarscents.github.io
 
 robotstxt:
   useragent: "*"

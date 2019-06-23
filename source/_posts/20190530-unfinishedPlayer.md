@@ -8,6 +8,8 @@ tags:
   - Algorithm
   - Programmers
   - Level1
+  - JavaScript
+  - ES6
 ---
 
 <br/>

@@ -8,6 +8,8 @@ tags:
   - Algorithm
   - HackerRank
   - 30Days of Code
+  - JavaScript
+  - ES6
 date: 2019-06-09 00:07:47
 ---
 

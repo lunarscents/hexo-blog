@@ -8,6 +8,8 @@ tags:
   - Algorithm
   - Programmers
   - Level1
+  - JavaScript
+  - ES6
 date: 2019-06-16 21:56:37
 ---
 

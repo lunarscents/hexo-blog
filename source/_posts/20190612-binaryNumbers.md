@@ -17,6 +17,7 @@ date: 2019-06-12 00:01:35
 
 Today, we're working with binary numbers. Check out the Tutorial tab for learning materials and an instructional video!
 
+<!-- more -->
 
 ## Task
 

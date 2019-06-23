@@ -17,6 +17,7 @@ date: 2019-06-15 00:20:33
 
 Today, we're learning about Interfaces. Check out the Tutorial tab for learning materials and an instructional video!
 
+<!-- more -->
 
 ## Task
 

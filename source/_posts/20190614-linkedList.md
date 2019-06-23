@@ -13,7 +13,6 @@ tags:
 date: 2019-06-14 00:02:38
 ---
 
-
 ## Objective
 
 Today we're working with Linked Lists. Check out the Tutorial tab for learning materials and an instructional video!
@@ -22,6 +21,7 @@ A Node class is provided for you in the editor. A Node object has an integer dat
 
 A Node insert function is also declared in your editor. It has two parameters: a pointer, **head**, pointing to the first node of a linked list, and an integer **data** value that must be added to the end of the list as a new Node object.
 
+<!-- more -->
 
 ## Task
 

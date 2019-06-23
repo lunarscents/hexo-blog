@@ -17,6 +17,8 @@ date: 2019-06-06 00:16:08
 
 In this challenge, we practice implementing inheritance and use JavaScript prototypes to add a new method to an existing prototype. Check out the attached Classes tutorial to refresh what we've learned about these topics.
 
+<!-- more -->
+
 ## Task
 
 We provide the implementation for a Rectangle class in the editor. Perform the following tasks:

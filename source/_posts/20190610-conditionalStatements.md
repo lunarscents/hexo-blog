@@ -13,11 +13,11 @@ tags:
 date: 2019-06-10 12:43:45
 ---
 
-
 ## Objective
 
 In this challenge, we're getting started with conditional statements. Check out the Tutorial tab for learning materials and an instructional video!
 
+<!-- more -->
 
 ## Task
 

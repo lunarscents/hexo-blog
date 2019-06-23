@@ -17,6 +17,7 @@ date: 2019-06-19 00:45:30
 
 Today's challenge puts your understanding of nested conditional statements to the test. You already have the knowledge to complete this challenge, but check out the Tutorial tab for a video on testing!
 
+<!-- more -->
 
 ## Task
 

@@ -17,6 +17,7 @@ date: 2019-06-02 12:53:57
 
 Today, we're discussing JavaScript functions. Check out the attached tutorial for more details.
 
+<!-- more -->
 
 ## Task
 

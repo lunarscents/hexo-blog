@@ -17,6 +17,8 @@ date: 2019-06-09 00:07:47
 
 Today, we're discussing data types. Check out the Tutorial tab for learning materials and an instructional video!
 
+<!-- more -->
+
 ## Task
 
 Complete the code in the editor below. The variables **i**, **d**, and **s** are already declared and initialized for you. You must:

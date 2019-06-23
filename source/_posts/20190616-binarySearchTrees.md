@@ -13,10 +13,11 @@ tags:
 date: 2019-06-16 21:54:21
 ---
 
-
 ## Objective
 
 Today, we're working with Binary Search Trees (BSTs). Check out the Tutorial tab for learning materials and an instructional video!
+
+<!-- more -->
 
 ## Task
 

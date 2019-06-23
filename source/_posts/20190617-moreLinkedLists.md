@@ -17,6 +17,7 @@ date: 2019-06-17 12:37:24
 
 Check out the Tutorial tab for learning materials and an instructional video!
 
+<!-- more -->
 
 ## Task
 

@@ -13,10 +13,11 @@ tags:
 date: 2019-06-09 00:01:05
 ---
 
-
 ## Objective
 
 In this challenge, we practice creating buttons in JavaScript. Check out the attached tutorial for learning materials.
+
+<!-- more -->
 
 ## Task
 

@@ -17,6 +17,7 @@ date: 2019-06-05 00:18:42
 
 In this challenge, we learn about iterating over objects. Check the attached tutorial for more details.
 
+<!-- more -->
 
 ## Task
 

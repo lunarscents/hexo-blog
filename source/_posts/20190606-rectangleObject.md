@@ -17,6 +17,7 @@ date: 2019-06-06 00:15:45
 
 In this challenge, we practice creating objects. Check out the attached tutorial for more details.
 
+<!-- more -->
 
 ## Task
 

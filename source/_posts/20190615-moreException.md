@@ -13,11 +13,11 @@ tags:
 date: 2019-06-15 00:20:06
 ---
 
-
 ## Objective
 
 Yesterday's challenge taught you to manage exceptional situations by using try and catch blocks. In today's challenge, you're going to practice throwing and propagating an exception. Check out the Tutorial tab for learning materials and an instructional video!
 
+<!-- more -->
 
 ## Task
 

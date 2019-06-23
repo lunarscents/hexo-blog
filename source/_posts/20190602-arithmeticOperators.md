@@ -17,6 +17,7 @@ date: 2019-06-02 12:50:19
 
 In this challenge, we practice using arithmetic operators. Check out the attached tutorial for resources.
 
+<!-- more -->
 
 ## Task
 

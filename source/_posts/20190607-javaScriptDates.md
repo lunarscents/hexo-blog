@@ -17,6 +17,7 @@ date: 2019-06-07 00:07:15
 
 In this challenge, we learn about JavaScript Dates. Check out the attached tutorial for more details.
 
+<!-- more -->
 
 ## Task
 

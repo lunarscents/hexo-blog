@@ -16,6 +16,9 @@ date: 2019-06-09 00:09:26
 ## Objective
 
 In this challenge, you'll work with arithmetic operators. Check out the Tutorial tab for learning materials and an instructional video!
+
+<!-- more -->
+
 ## Task
 
 Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost.

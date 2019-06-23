@@ -17,6 +17,7 @@ date: 2019-06-02 12:47:22
 
 This series focuses on learning and practicing JavaScript. Each challenge comes with a tutorial article, and you can view these articles by clicking either the Topics tab along the top or the article icon in the right-hand menu.
 
+<!-- more -->
 
 ## Objective
 

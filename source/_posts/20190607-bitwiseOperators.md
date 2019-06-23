@@ -17,6 +17,7 @@ date: 2019-06-07 00:04:54
 
 Today, we're practicing bitwise operations. Check the attached tutorial for more details.
 
+<!-- more -->
 
 ## Task
 

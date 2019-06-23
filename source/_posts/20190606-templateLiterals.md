@@ -17,6 +17,7 @@ date: 2019-06-06 00:16:20
 
 In this challenge, we practice using JavaScript Template Literals. Check the attached tutorial for more details.
 
+<!-- more -->
 
 ## Task
 

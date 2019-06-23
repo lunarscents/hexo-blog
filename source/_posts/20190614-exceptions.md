@@ -13,11 +13,11 @@ tags:
 date: 2019-06-14 00:02:51
 ---
 
-
 ## Objective
 
 Today, we're getting started with Exceptions by learning how to parse an integer from a string and print a custom error message. Check out the Tutorial tab for learning materials and an instructional video!
 
+<!-- more -->
 
 ## Task
 

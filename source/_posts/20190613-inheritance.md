@@ -13,10 +13,11 @@ tags:
 date: 2019-06-13 00:02:55
 ---
 
-
 ## Objective
 
 Today, we're delving into Inheritance. Check out the attached tutorial for learning materials and an instructional video!
+
+<!-- more -->
 
 ## Task
 

@@ -17,6 +17,7 @@ date: 2019-06-18 00:37:24
 
 Today we're learning about running time! Check out the Tutorial tab for learning materials and an instructional video!
 
+<!-- more -->
 
 ## Task
 

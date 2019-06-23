@@ -17,6 +17,7 @@ date: 2019-06-06 00:15:59
 
 In this challenge, we practice using arrow functions. Check the attached tutorial for more details.
 
+<!-- more -->
 
 ## Task
 

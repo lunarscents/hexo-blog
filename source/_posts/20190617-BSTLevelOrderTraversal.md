@@ -13,11 +13,11 @@ tags:
 date: 2019-06-17 12:28:55
 ---
 
-
 ## Objective
 
 Today, we're going further with Binary Search Trees. Check out the Tutorial tab for learning materials and an instructional video!
 
+<!-- more -->
 
 ## Task
 

@@ -17,6 +17,7 @@ date: 2019-06-02 12:40:38
 
 Today, we're discussing data types. Check out the attached tutorial for more details.
 
+<!-- more -->
 
 ## Task
 

@@ -13,8 +13,9 @@ tags:
 date: 2019-06-15 00:20:22
 ---
 
-
 Welcome to Day 18! Today we're learning about Stacks and Queues. Check out the Tutorial tab for learning materials and an instructional video!
+
+<!-- more -->
 
 A palindrome is a word, phrase, number, or other sequence of characters which reads the same backwards and forwards. Can you determine if a given string, **s**, is a palindrome?
 

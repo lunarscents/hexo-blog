@@ -99,9 +99,6 @@ Comparing the **0<sup>th</sup>** elements, **17 < 99** so Bob receives a point.<
 Comparing the **1<sup>st</sup>** and **2<sup>nd</sup>** elements, **28 > 16** and **30 > 8** so Alice receives two points.<br/>
 The return array is **[2, 1]**.
 
-
-<br/>
-
 ---
 
 ## Solution

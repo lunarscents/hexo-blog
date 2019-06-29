@@ -59,8 +59,6 @@ The range of the 32-bit integer is **(-2<sup>31</sup>) to (2<sup>31</sup> - 1) o
 When we add several integer values, the resulting sum might exceed the above range. You might need to use long long int in C/C++ or long data type in Java to store such sums.
 
 
-<br/>
-
 ---
 
 ## Solution
@@ -70,7 +68,7 @@ When we add several integer values, the resulting sum might exceed the above ran
 function aVeryBigSum(ar) {
     return ar.reduce((target, item) => {
         return target + item;
-    }, 0)
+    }, 0);
 }
 ```
 

@@ -71,5 +71,3 @@ function aVeryBigSum(ar) {
     }, 0);
 }
 ```
-
----

@@ -98,5 +98,3 @@ function plusMinus(arr) {
     console.log(`${posNum / totalCount}\n${negNum / totalCount}\n${zeroNum / totalCount}`);
 }
 ```
-
----

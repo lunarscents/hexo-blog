@@ -112,5 +112,3 @@ function diagonalDifference(arr) {
     return Math.abs(first - second);
 }
 ```
-
----

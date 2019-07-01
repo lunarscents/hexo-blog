@@ -88,5 +88,3 @@ function staircase(n) {
     }, []);
 }
 ```
-
----

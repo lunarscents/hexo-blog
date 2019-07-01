@@ -77,5 +77,3 @@ function simpleArraySum(ar) {
 }
 
 ```
-
----

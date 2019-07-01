@@ -10,7 +10,7 @@ tags:
   - Problem Solving
   - JavaScript
   - ES6
-date: 2019-06-30 01:06:30
+date: 2019-07-01 12:50:30
 ---
 
 Consider a staircase of size **n = 4**:

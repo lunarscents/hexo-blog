@@ -34,8 +34,8 @@ The second line contains **n** space-separated integers, where each integer **i*
 
 ## Constraints 
 
-**0 <= n <= 10<sup>5</sup>**
-**0 <= ar[i] <= 10<sup>7</sup>**
+- **0 <= n <= 10<sup>5</sup>**
+- **0 <= ar[i] <= 10<sup>7</sup>**
 
 ## Output Format
 

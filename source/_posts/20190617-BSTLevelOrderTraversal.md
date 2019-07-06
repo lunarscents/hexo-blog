@@ -1,5 +1,6 @@
 ---
 title: 'Day 23: BST Level-Order Traversal'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

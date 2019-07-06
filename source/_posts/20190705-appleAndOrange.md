@@ -1,5 +1,6 @@
 ---
 title: 'Apple and Orange'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

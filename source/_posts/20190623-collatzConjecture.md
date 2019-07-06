@@ -1,5 +1,6 @@
 ---
 title: 콜라츠 추측
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

@@ -1,5 +1,6 @@
 ---
 title: 'x만큼 간격이 있는 n개의 숫자'
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

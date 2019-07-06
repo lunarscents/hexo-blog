@@ -1,5 +1,6 @@
 ---
 title: 정수 내림차순으로 배치하기
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

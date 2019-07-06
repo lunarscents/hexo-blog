@@ -1,5 +1,6 @@
 ---
 title: 'Day 12: Inheritance'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

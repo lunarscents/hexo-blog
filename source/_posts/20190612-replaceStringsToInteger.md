@@ -1,5 +1,6 @@
 ---
 title: 문자열을 정수로 바꾸기
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

@@ -1,5 +1,6 @@
 ---
 title: '탑'
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

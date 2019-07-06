@@ -1,5 +1,6 @@
 ---
 title: 'Day 24: More Linked Lists'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

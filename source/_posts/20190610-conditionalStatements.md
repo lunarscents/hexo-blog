@@ -1,5 +1,6 @@
 ---
 title: 'Day 3: Intro to Conditional Statements'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

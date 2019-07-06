@@ -1,5 +1,6 @@
 ---
 title: 'Birthday Cake Candles'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

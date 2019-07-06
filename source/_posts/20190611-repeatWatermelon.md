@@ -1,5 +1,6 @@
 ---
 title: '수박수박수박수박수박수?'
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

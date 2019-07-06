@@ -1,5 +1,6 @@
 ---
 title: 'Day 10: Binary Numbers'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

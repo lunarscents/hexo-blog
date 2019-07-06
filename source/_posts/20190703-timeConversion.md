@@ -1,5 +1,6 @@
 ---
 title: 'Time Conversion'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

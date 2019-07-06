@@ -1,5 +1,6 @@
 ---
 title: 'Simple Array Sum'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

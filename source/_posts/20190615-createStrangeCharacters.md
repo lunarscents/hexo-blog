@@ -1,5 +1,6 @@
 ---
 title: 이상한 문자 만들기
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

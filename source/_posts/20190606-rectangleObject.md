@@ -1,5 +1,6 @@
 ---
 title: 'Day 4: Create a Rectangle Object'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

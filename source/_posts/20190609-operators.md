@@ -1,5 +1,6 @@
 ---
 title: 'Day 2: Operators'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

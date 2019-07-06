@@ -1,5 +1,6 @@
 ---
 title: 'Day 18: Queues and Stacks'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

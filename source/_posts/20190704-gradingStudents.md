@@ -1,5 +1,6 @@
 ---
 title: 'Grading Students'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

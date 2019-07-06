@@ -1,5 +1,6 @@
 ---
 title: 'Day 15: Linked List'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

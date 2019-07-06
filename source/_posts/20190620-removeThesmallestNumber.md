@@ -1,5 +1,6 @@
 ---
 title: 제일 작은 수 제거하기
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

@@ -1,5 +1,6 @@
 ---
 title: 'Day 25: Running Time and Complexity'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

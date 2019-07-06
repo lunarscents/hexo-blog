@@ -1,5 +1,6 @@
 ---
 title: 시저 암호
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

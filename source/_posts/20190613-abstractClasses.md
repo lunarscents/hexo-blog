@@ -1,5 +1,6 @@
 ---
 title: 'Day 13: Abstract Classes'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

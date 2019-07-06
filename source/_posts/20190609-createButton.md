@@ -1,5 +1,6 @@
 ---
 title: 'Day 8: Create a Button'
+thumbnail: '/images/hackerrank.jpeg'
 categories: 
   - Algorithm
   - HackerRank

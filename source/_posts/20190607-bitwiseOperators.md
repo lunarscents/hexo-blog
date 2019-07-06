@@ -1,5 +1,6 @@
 ---
 title: 'Day 6: Bitwise Operators'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

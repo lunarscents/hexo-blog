@@ -1,5 +1,6 @@
 ---
 title: 짝수와 홀수
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

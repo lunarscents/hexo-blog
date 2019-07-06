@@ -1,5 +1,6 @@
 ---
 title: 서울에서 김서방 찾기
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

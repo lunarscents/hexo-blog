@@ -1,5 +1,6 @@
 ---
 title: 소수 찾기
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

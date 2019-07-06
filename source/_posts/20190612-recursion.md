@@ -1,5 +1,6 @@
 ---
 title: 'Day 9: Recursion 3'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

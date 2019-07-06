@@ -1,5 +1,6 @@
 ---
 title: '행렬의 덧셈'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - Programmers

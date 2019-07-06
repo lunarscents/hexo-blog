@@ -1,5 +1,6 @@
 ---
 title: 'Day 16: Exceptions - String to Integer'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

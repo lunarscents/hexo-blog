@@ -1,5 +1,6 @@
 ---
 title: 핸드폰 번호 가리기
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - Programmers

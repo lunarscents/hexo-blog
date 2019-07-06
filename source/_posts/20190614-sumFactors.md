@@ -1,5 +1,6 @@
 ---
 title: 약수의 합
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

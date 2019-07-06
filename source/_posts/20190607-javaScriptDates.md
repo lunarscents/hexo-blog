@@ -1,5 +1,6 @@
 ---
 title: 'Day 6: JavaScript Dates'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

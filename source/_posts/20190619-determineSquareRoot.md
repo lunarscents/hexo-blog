@@ -1,5 +1,6 @@
 ---
 title: 정수 제곱근 판별
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

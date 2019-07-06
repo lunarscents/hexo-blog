@@ -1,5 +1,6 @@
 ---
 title: 'Day 1: Data Types'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

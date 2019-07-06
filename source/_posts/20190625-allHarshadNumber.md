@@ -1,5 +1,6 @@
 ---
 title: 하샤드 수
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

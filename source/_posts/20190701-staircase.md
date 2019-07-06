@@ -1,5 +1,6 @@
 ---
 title: 'Staircase'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

@@ -1,5 +1,6 @@
 ---
 title: 'Day 0: Hello, World'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

@@ -1,5 +1,6 @@
 ---
 title: 'A Very Big Sum'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

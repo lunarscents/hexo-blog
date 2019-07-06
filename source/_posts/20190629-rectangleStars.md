@@ -1,5 +1,6 @@
 ---
 title: '직사각형 별찍기'
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

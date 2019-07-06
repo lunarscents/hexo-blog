@@ -1,5 +1,6 @@
 ---
 title: 'Day 19: Interfaces'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

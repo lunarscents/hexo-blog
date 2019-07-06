@@ -1,5 +1,6 @@
 ---
 title: 문자열 내 p와 y의 개수
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

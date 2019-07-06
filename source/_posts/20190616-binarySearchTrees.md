@@ -1,5 +1,6 @@
 ---
 title: 'Day 22: Binary Search Trees'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

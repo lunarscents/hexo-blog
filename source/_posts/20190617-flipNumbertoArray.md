@@ -1,5 +1,6 @@
 ---
 title: 자연수 뒤집어 배열로 만들기
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

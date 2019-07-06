@@ -1,5 +1,6 @@
 ---
 title: 자릿수 더하기
+thumbnail: '/images/programmers.png'
 categories:
   - Algorithm
   - Programmers

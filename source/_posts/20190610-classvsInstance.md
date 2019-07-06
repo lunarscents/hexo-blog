@@ -1,5 +1,6 @@
 ---
 title: 'Day 4: Class vs. Instance'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

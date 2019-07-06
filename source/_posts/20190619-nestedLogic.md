@@ -1,5 +1,6 @@
 ---
 title: 'Day 26: Nested Logic'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

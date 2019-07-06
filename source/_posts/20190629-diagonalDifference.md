@@ -1,5 +1,6 @@
 ---
 title: 'Diagonal Difference'
+thumbnail: '/images/hackerrank.jpeg'
 categories:
   - Algorithm
   - HackerRank

@@ -69,7 +69,8 @@ If we sum everything except **4**, our sum is **1 + 2 + 3 + 5 = 11**.
 If we sum everything except **5**, our sum is **1 + 2 + 3 + 4 = 10**.
 Hints: Beware of integer overflow! Use 64-bit Integer.
 
----
+<br/>
+<br/>
 
 Need help to get started? Try the Solve Me First problem
 

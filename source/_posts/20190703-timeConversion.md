@@ -24,7 +24,7 @@ Note: Midnight is 12:00:00AM on a 12-hour clock, and 00:00:00 on a 24-hour clock
 
 Complete the timeConversion function in the editor below. It should return a new string representing the input time in 24 hour format.
 
-timeConversion has the following parameter(s):
+timeConversion has the following parameter(s):<br/>
 
 - s: a string representing time in **12** hour format
 

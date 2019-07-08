@@ -100,8 +100,8 @@ Only the second orange falls within the region between **7** and **11**, so we p
 ```javascript
 // Complete the countApplesAndOranges function below.
 function countApplesAndOranges(s, t, a, b, apples, oranges) {
-    console.log((apples || []).reduce((target, apple) => { return target + (s - a <= apple && apple <= t - a) }, 0));
+    console.log((apples || []).reduce((target, apple) => { return target + (s - a <= apple && apple <= t - a); }, 0));
 
-    console.log((oranges || []).reduce((target, orange) => { return target + (s - b <= orange && orange <= t - b) }, 0));
+    console.log((oranges || []).reduce((target, orange) => { return target + (s - b <= orange && orange <= t - b); }, 0));
 }
 ```

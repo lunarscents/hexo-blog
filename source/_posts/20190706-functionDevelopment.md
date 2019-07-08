@@ -65,7 +65,7 @@ function solution(progresses, speeds) {
 	let front = 0;
 
 	values.reduce((target, value, index) => {
-		(values[front] < values[index]) && (results.push(index - front), front = index)
+		(values[front] < values[index]) && (results.push(index - front), front = index);
 
 		return target;
     }, []);

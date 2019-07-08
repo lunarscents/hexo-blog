@@ -42,7 +42,7 @@ breakingRecords has the following parameter(s):
 ## Input Format
 
 The first line contains an integer **n**, the number of games. <br/>
-The second line contains **n** space-separated integers describing the respective values of **score<sub>0</sub>, score<sub>1</sub>**, ... , score<sub>n-1</sub>.<br/>
+The second line contains **n** space-separated integers describing the respective values of **score<sub>0</sub>, score<sub>1</sub>, ... , score<sub>n-1</sub>**.<br/>
 
 ## Constraints 
 
@@ -94,6 +94,7 @@ The diagram below depicts the number of times Maria broke her best and worst rec
 ![](https://s3.amazonaws.com/hr-assets/0/1487360375-aee4388234-breakingbest5.png)
 
 She broke her best record four times (after games **1**, **2**, **3**, and **9**) and her worst record zero times (no score during the season was lower than the one she earned during her first game), so we print 4 0 as our answer.
+
 
 ---
 

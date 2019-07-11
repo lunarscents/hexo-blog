@@ -18,6 +18,8 @@ Lily has a chocolate bar that she wants to share it with Ron for his birthday. E
 
 Consider the chocolate bar as an array of squares, **s = [2, 2, 1, 3, 2]**. She wants to find segments summing to Ron's birth day, **d = 4** with a length equalling his birth month, **m = 2**. In this case, there are two segments meeting her criteria: **[2, 2]** and **[1, 3]**.
 
+<!-- more -->
+
 ## Function Description
 
 Complete the birthday function in the editor below. It should return an integer denoting the number of ways Lily can divide the chocolate bar.

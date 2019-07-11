@@ -11,7 +11,7 @@ tags:
   - Problem Solving
   - JavaScript
   - ES6
-date: 2019-07-10 12:50:30
+date: 2019-07-11 12:55:30
 ---
 
 You are given an array of **n** integers, **ar = ar[0], ar[1], ..., ar[n - 1]**, and a positive integer, **k**. Find and print the number of **(i, j)** pairs where **i < j** and **ar[i]** + **ar[j]** is divisible by **k**.

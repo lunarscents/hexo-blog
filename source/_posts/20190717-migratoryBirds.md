@@ -91,6 +91,8 @@ The different types of birds occur in the following frequencies:
 
 Two types have a frequency of **3**, and the lower of those is type **3**.
 
+<br/>
+
 ---
 
 ## Solution
@@ -104,7 +106,7 @@ function migratoryBirds(arr) {
         results[value - 1].value++;
 
         return target;
-    }, [])
+    }, []);
 
     return results.sort((a,b) => b.value - a.value)[0].index;
 }

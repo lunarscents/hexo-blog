@@ -86,7 +86,6 @@ We choose the following multiset of integers from the array: **{1,2,2,1,2}**. Ea
  * The function is expected to return an INTEGER.
  * The function accepts INTEGER_ARRAY a as parameter.
  */
-
 function pickingNumbers(a) {
     // Write your code here
     let max = 0;

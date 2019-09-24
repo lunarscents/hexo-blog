@@ -7,7 +7,7 @@ tags:
   - Settings
   - Development Environment in MacOS
 toc: true
-thumbnail: /images/macOS.jpg
+thumbnail: /images/macOS.png
 date: 2019-08-17 23:50:37
 ---
 
@@ -28,7 +28,7 @@ date: 2019-08-17 23:50:37
 ### Finder 기본 폴더 설정
 
 - Finder 실행 시 기본 폴더를 Home 폴더로 설정합니다.
-- `General` > `New Finder windows show`:  (home folder)
+- `General` > `New Finder windows show`: (home folder)
 
 ### 파일 확장자 보여주기
 
@@ -80,19 +80,17 @@ Terminal을 실행 시켜 아래 명령어를 복사하여 붙여넣기 해주�
 Command Line에서 명령어로 여러가지 맥용 어플리케이션을 설치하게 해주는 유틸리티 입니다.
 
 1. `설치가 간편합니다.`
-    - 기존 설치 방법대로, 앱스토어나 해당 사이트에 접속하여 설치 파일을 다운받고 실행 시켜 마우스로 이동 할 필요없이 커맨드라인에서 간편하게 설치 가능합니다.
+   - 기존 설치 방법대로, 앱스토어나 해당 사이트에 접속하여 설치 파일을 다운받고 실행 시켜 마우스로 이동 할 필요없이 커맨드라인에서 간편하게 설치 가능합니다.
 
 {% gdemo_terminal 'brew tap caskroom/cask;brew tap caskroom/versions;brew tap caskroom/fonts;brew tap homebrew/dupes;' '70px' 'zsh' '500' '$' 'demo-terminal2-1' %}
 {% endgdemo_terminal %}
 
-
 2. `설치목록을 저장하여 재설치를 자동화 할 수 있습니다.`
-    - 새로운 기기나 환경에서 설치하거나 재설치 할 경우 목록만 있으면 많은 어플리케이션을 한번에 설치 할 수 있습니다.
-    - 아쉽게도 앱스토어에만 있는 어플들은 이렇게 설치하지 못합니다.
+   - 새로운 기기나 환경에서 설치하거나 재설치 할 경우 목록만 있으면 많은 어플리케이션을 한번에 설치 할 수 있습니다.
+   - 아쉽게도 앱스토어에만 있는 어플들은 이렇게 설치하지 못합니다.
 
 {% gdemo_terminal 'brew cask list > app_list.txt;brew cask install $(cat app_list.txt)' '70px' 'zsh' '500' '$' 'demo-terminal2-2' %}
 {% endgdemo_terminal %}
-
 
 ### git 설치
 
@@ -100,7 +98,7 @@ Version 관리 도구로 macOS에 기본으로 설치되어 있지만 최신 버
 
 아래 순서대로 우선 시 됩니다.
 
-1. `.git/config` : 이 파일은 Git 디렉토리에 있고 특정 저장소(혹은 현재 작업 중인 프로젝트)에만 적용됩니다. 
+1. `.git/config` : 이 파일은 Git 디렉토리에 있고 특정 저장소(혹은 현재 작업 중인 프로젝트)에만 적용됩니다.
 2. `~/.gitconfig` : 특정 사용자에게만 적용되는 설정이다. git config --global 옵션으로 이 파일을 읽고 쓸 수 있습니다.
 3. `/etc/gitconfig` : 시스템의 모든 사용자와 모든 저장소에 적용되는 설정이다. git config --system 옵션으로 이 파일을 읽고 쓸 수 있습니다.
 
@@ -129,7 +127,7 @@ Version 관리 도구로 macOS에 기본으로 설치되어 있지만 최신 버
 
 [iTerm2](https://www.iterm2.com/downloads.html) 는 기본 터미널에 기능을 확장한 무료 애플리케이션입니다.
 
-macOS에 기본으로 설치되어 있는 Terminal 대신 iTerm2를 터미널 앱으로 사용합니다. 
+macOS에 기본으로 설치되어 있는 Terminal 대신 iTerm2를 터미널 앱으로 사용합니다.
 
 <br/>
 
@@ -137,7 +135,6 @@ macOS에 기본으로 설치되어 있는 Terminal 대신 iTerm2를 터미널 �
 {% endgdemo_terminal %}
 
 <br/>
-
 
 ## zsh 설치
 
@@ -227,7 +224,9 @@ brew를 통한 아래 명령어로 쉽게 설치 하세요.
 - `.zshrc` 파일을 열어 하단에 아래 내용을 추가 한 후 저장합니다.
 
 {% codeblock .zshrc %}
+
 # NVM
+
 export NVM_DIR="$HOME/.nvm"
 . "$(brew --prefix nvm)/nvm.sh"
 {% endcodeblock %}
@@ -298,7 +297,7 @@ NPM은 배포가 쉽고 종속성을 쉽게 해결할 수 있다는 장점이 �
 
 <br/>
 
-5. [Add New SSH keys on Github](https://github.com/settings/ssh/new) 에 접속하여 `Title`에는 userName을, `Key`에는 복사한 내용을 붙여넣고 추가합니다. 
+5. [Add New SSH keys on Github](https://github.com/settings/ssh/new) 에 접속하여 `Title`에는 userName을, `Key`에는 복사한 내용을 붙여넣고 추가합니다.
 
 <br/>
 
@@ -309,9 +308,9 @@ NPM은 배포가 쉽고 종속성을 쉽게 해결할 수 있다는 장점이 �
 1. Alfred
 
 [alfred](https://www.alfredapp.com/)는 독특한 단축키와 키스트로크 시스템을 통해 생산성을 높여줍니다.
- 
-- 앱을 실행하고 파일을 찾고 계산하는 것은 물론 빠르고 정확하게 맥을 제어할 수 있습니다. 
-- 사용자 설정 기능도 강력합니다. 
+
+- 앱을 실행하고 파일을 찾고 계산하는 것은 물론 빠르고 정확하게 맥을 제어할 수 있습니다.
+- 사용자 설정 기능도 강력합니다.
 - MacOS의 단점인 스폿라이트(spotlight)를 훌륭하게 보완한 앱입니다.
 
 <br/>

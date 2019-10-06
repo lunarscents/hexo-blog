@@ -16,15 +16,15 @@ date: 2019-10-06 20:22:30
 
 Given the time in numerals we may convert it into words, as shown below:
 
-**<center>5:00 -> five o'clock</center>**
-**<center>5:01 -> one minute past five</center>**
-**<center>5:10 -> tem minutes past five</center>**
-**<center>5:15 -> quarter past five</center>**
-**<center>5:30 -> half past five</center>**
-**<center>5:40 -> twenty minutes to six</center>**
-**<center>5:45 -> quarter to six</center>**
-**<center>5:47 -> thirteen minutes to six</center>**
-**<center>5:28 -> twenty eight minutes past</center>**
+**<p align="center">5:00 -> five o'clock</p>**
+**<p align="center">5:01 -> one minute past five</p>**
+**<p align="center">5:10 -> ten minutes past five</p>**
+**<p align="center">5:15 -> quarter past five</p>**
+**<p align="center">5:30 -> half past five</p>**
+**<p align="center">5:40 -> twenty minutes to six</p>**
+**<p align="center">5:45 -> quarter to six</p>**
+**<p align="center">5:47 -> thirteen minutes to six</p>**
+**<p align="center">5:28 -> twenty eight minutes past</p>**
 
 <br/>
 

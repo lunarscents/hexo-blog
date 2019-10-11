@@ -1,10 +1,10 @@
 ---
 title: React Hooks
 categories:
-  - Front-end
+  - JS Library
   - React
 tags:
-  - Front-end
+  - JS Library
   - React
   - React Hooks
 date: 2019-06-06 23:59:55

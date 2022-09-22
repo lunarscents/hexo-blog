@@ -6,6 +6,7 @@ categories:
 tags:
   - Settings
   - Development Environment in MacOS
+  - MacOS 개발 환경 설정하기
 toc: true
 thumbnail: /images/macOS.png
 date: 2019-08-17 23:50:37
